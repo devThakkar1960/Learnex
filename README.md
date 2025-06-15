@@ -3,7 +3,11 @@
 **Learnex** is a full-stack online learning platform where students can explore, purchase, and track courses, while instructors (admins) can create and manage courses and lectures.
 
 ---
+## 🌐  Video Demonstration
 
+[Click Here to see the Demonstration](https://drive.google.com/drive/folders/1YPWShjRWVKtbwH7yrWPdLMY595_GY5RT)
+
+---
 ## 🚀 Features
 
 ### 👨‍🎓 Student Functionality
