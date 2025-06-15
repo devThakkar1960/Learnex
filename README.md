@@ -33,6 +33,7 @@
 - **React JS**
 - **Redux Toolkit** (with RTK Query for API calls)
 - **Tailwind CSS**
+- **React Router**
 
 ### 🌐 Backend
 - **Node.js**
