@@ -1,0 +1,29 @@
+# ======================
+# Node modules (common)
+/node_modules/
+/Frontend/node_modules/
+/Backend/node_modules/
+
+# ======================
+# Backend specific files to ignore
+.env
+package.json
+package-lock.json
+
+# ======================
+# Frontend specific files to ignore
+/Frontend/tailwind.config.js
+/Frontend/vite.config.js
+/Frontend/package.json
+/Frontend/package-lock.json
+/Frontend/jsconfig.json
+/Frontend/components.json
+
+
+# Backend build or temp files (optional)
+/Backend/dist/
+/Backend/uploads/
+/Backend/upload/
+/Backend/logs/
+
+
